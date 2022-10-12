@@ -1,1 +1,1 @@
-proofpoint-code-challange Repository
+sentence-validation-util code Repository
